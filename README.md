@@ -1,22 +1,27 @@
 # Xylophone
 
-## My Goal
+## Challenges I Faced?
 
-The goal of this tutorial was to dive into a simple iOS recipe - how to play sound and use an Apple library called AVFoundation. The most important skill of a great programmer is being able to solve your own problems. We’ll do that by exploring StackOverflow, Apple Documentation and learning how to search for solutions effectively. By learning to use these tools, I’ll be able to start adding custom features to an app and get it to do what you want it to.
+Understanding how sound is going to play in my application is quite challenging at this current point in time.
 
-## What I'll will create
+## How Did I Over Come Those Challenges? 
 
-I will be making my first musical instrument! Music apps are so popular on the App Store that they even get their own category. So in this module, we’re going to make a colorful Xylophone app.
+Collaboration with my peers gave me clearer understanding of how to play sound in my applications. Once I had a general idea of how to accomplish this feat, I began leveraging platforms like Google, YouTube, MDN docs, Stackoverflow, GitHub, online courses, and reference guides. Through my combined research on these platforms I was able to find the proper Swift methods and functions needed to complete the task and I programmed the Xylophone accordingly.
 
-## What I will learn
+## What Did I Learn? 
 
-- How to play sound using AVFoundation and AVAudioPlayer.
-- Understand Apple documentation and how to use StackOverflow.
-- Functions and methods in Swift.
-- Data types.
-- Swift loops.
-- Variable scope.
-- The ViewController lifecycle.
-- Error handling in Swift.
-- Code refactoring.
-- Basic debugging.
+* How to play sound using AVFoundation and AVAudioPlayer.
+* How to understand Apple documentation. 
+* How to use functions and methods in Swift.
+* How to use Data types in Swift.
+* How to use Swift loops.
+* How to understand and use variable scope.
+* How to understand and use the viewController lifecycle.
+* How to handle errors in Swift.
+* How to do code refactoring in Swift
+* How to do Basic debugging in Swift
+
+
+![App Screen Shot](xylo.png)
+
+
